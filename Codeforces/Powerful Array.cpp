@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 #define N       200004
-#define MAX     1000000
+#define MAX     1000006
 
 using namespace std;
 
